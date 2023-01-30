@@ -1,2 +1,3 @@
-# selfLodash
-基于lodash实现
+# lodash
+
+基于 lodash 实现
